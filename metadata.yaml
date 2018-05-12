@@ -1,10 +1,14 @@
 _repo: De-Tribus-Impostoribus-A-D-1230-The-Three-Impostors_50715
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Latter, Alcofribas Nasier the
       gutenberg_agent_id: '46055'
       url: http://www.gutenberg.org/2009/agents/46055
+covers:
+- cover_type: archival
+  image_path: 50715-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -15,6 +19,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50715#De-Tribus-Impostoribus-A-D-1230-The-Three-Impostors
 gutenberg_issued: '2015-12-18'
 gutenberg_type: Text
 identifiers:
