@@ -29,6 +29,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'De Tribus Impostoribus, A. D. 1230
 
   The Three Impostors'
